@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "server": {
+    "url": "https://demo.reportportal.io/api/v1",
+    "project": "TestPetStore",
+    "authentication": {
+      "uuid": "dcaa4f45-1785-4996-83fe-3e18600a6d06"
+    }
+  },
+  "launch": {
+    "name": "default_personal",
+    "deion": "",
+    "debugMode": false,
+    "tags": []
+  }
+}
